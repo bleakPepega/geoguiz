@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_1">hello</string>
+    <string name="text_one">xz</string>
+    <string name="questionOne">earth is ball</string>
+    <string name="questionTwo">i`m bald?</string>
+    <string name="questionThre">i`m freak?</string>
+    <string name="next">next</string>
+    <string name="false_button">false</string>
+    <string name="true_button">true</string>
+    <string name="button_back">back</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warring_text">Are you sure you want to do this</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="Cheat_button">Cheat!</string>
+    <string name="judment_toast">Cheating is wrong</string>
+    <string name="correct_tjast">correct</string>
+</resources>
